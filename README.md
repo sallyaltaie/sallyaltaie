@@ -21,6 +21,6 @@
 ## 👾 Hobbies
 - Books 
 - Movies  
-- Board games and baking bread
+- Board games and baking bread 🥖
 
 ✨ *"Learning by building — one project at a time."*
