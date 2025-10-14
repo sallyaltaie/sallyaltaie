@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**sallyaltaie/sallyaltaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying Software Development, Embedded Systems and IoT at Nackademin in Stockholm.  
 
-Here are some ideas to get you started:
+💻 I enjoy working with Java, C/C++ and I'm exploring full stack Development to broaden my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Java (OOP, GUI, Swing)
+- C / C++
+- Python (basics, scripting)
+- Git & GitHub
+- Mac
+- Windows
+- Linux
+
+## 🚀 Projects
+- Cash Register – Java Swing GUI with VAT calculation  
+- Billboard Display App – Java GUI for dynamic messages  
+- *(more coming soon!)*
