@@ -1,16 +1,26 @@
-## Hi there 👋
+🎓 I'm currently studying **Software Development**, **Embedded Systems** and **IoT** at Nackademin in Stockholm.  
+💻 I enjoy working with **Java**, **C**/**C++**, and I’m exploring **Full-Stack Development** to broaden my skills.
 
-<!--
-**sallyaltaie/sallyaltaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
+- Java (OOP, GUI, Swing)
+- C / C++
+- Python (basics, scripting)
+- Git & GitHub
+- Mac, Windows and Linux
+  
+## 🚀 Projects
+- **Cash Register (POS)** – Java Swing GUI with VAT calculation  
+- **Billboard Display App** – Java GUI for dynamic messages  
+- *(more coming soon!)*
 
-Here are some ideas to get you started:
+## 🤓 Interests
+- Full-stack development  
+- Embedded systems & automation  
+- Machine learning in IoT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Hobbies
+- Books 
+- Movies  
+- Board games and baking bread
+
+✨ *"Learning by building — one project at a time."*
