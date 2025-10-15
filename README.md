@@ -3,7 +3,6 @@
 
 🤝 **Connect** with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sally%20Altaie-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sally-altaie-5613558b/)
-[![IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_all_nme_1)](https://www.imdb.com/name/nm12562159/)
 
 ## 🧠 Skills
 - Java (OOP, GUI, Swing)
