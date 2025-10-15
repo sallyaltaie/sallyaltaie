@@ -1,6 +1,8 @@
 🎓 I'm currently studying **Software Development**, **Embedded Systems** and **IoT** at Nackademin in Stockholm.  
 💻 I enjoy working with **Java**, **C**/**C++**, and I’m exploring **Full-Stack Development** to broaden my skills.
 
+## **Connect** with me [!Linkedin]([
+](https://www.linkedin.com/in/sally-altaie-5613558b/)
 ## 🧠 Skills
 - Java (OOP, GUI, Swing)
 - C / C++
