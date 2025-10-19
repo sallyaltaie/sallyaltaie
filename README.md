@@ -16,7 +16,7 @@
 - *(more coming soon!)*
 
 ## 🎥 Other Technical Projects
-Alongside my software studies, I’ve also worked on **technical projects within film and post-production**, focusing on **VFX**, **digital workflows**, and **pipeline automation**.  
+Before my software studies, I’ve also worked on **technical projects within film and post-production**, focusing on **VFX**, **digital workflows**, and **pipeline automation**.  
 You can see my credits on [IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_all_nme_1).  
 
 [![IMDb](https://img.shields.io/badge/IMDb-Sally%20Altaie-yellow?style=flat&logo=imdb)](https://www.imdb.com/name/nm12562159/?ref_=fn_all_nme_1)
