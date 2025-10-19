@@ -8,7 +8,6 @@
 - Java (OOP, GUI, Swing)
 - C / C++
 - Python (basics, scripting)
-- Git & GitHub
 - Mac, Windows and Linux
   
 ## 🚀 Projects
