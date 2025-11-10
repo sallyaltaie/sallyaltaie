@@ -36,3 +36,8 @@ You can see my credits on [IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_a
 
 ## 🧩 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallyaltaie&layout=compact&theme=tokyonight)
+
+## 📊 GitHub Stats
+![Sally's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallyaltaie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sallyaltaie&theme=tokyonight&hide_border=true)
