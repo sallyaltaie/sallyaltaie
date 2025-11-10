@@ -13,6 +13,7 @@
 ## 🚀 Projects
 - **Cash Register (POS)** – Java Swing GUI with VAT calculation  
 - **Billboard Display App** – Java GUI for dynamic messages
+- Snake Game - C
 - *(more coming soon!)*
 
 ## 🎥 Other Technical Projects
@@ -23,7 +24,7 @@ You can see my credits on [IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_a
 
 ## 🤓 Interests
 - Full-stack development  
-- Embedded systems & automation  
+- Embedded systems & automation
 - Machine learning in IoT  
 
 ## 👾 Hobbies
