@@ -36,5 +36,5 @@ You can see my credits on [IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_a
 
 ## 🧩 Languages Used  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallyaltaie&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallyaltaie&layout=compact&theme=tokyonight&count_private=true)
 
