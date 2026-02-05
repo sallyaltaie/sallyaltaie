@@ -14,6 +14,8 @@
 - **Cash Register (POS)** – Java Swing GUI with VAT calculation  
 - **Billboard Display App** – Java GUI for dynamic messages
 - Snake Game - C
+- Nordic Bank Console - C++
+- Card Access System - C
 - *(more coming soon!)*
 
 ## 🎥 Other Technical Projects
