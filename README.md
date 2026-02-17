@@ -9,6 +9,8 @@
 - C / C++
 - Python (basics, scripting)
 - Mac, Windows and Linux
+- AWS (Learning at the moment)
+- Docker (Learing at the moment)
   
 ## 🚀 Projects
 - **Cash Register (POS)** – Java Swing GUI with VAT calculation  
