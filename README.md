@@ -20,6 +20,8 @@
 - **Card Access System** - C
 - **Health Center Queue Simulator** - C++
 - **Cash Register** - Java
+- **User Management** - C
+- **AVR Controller** - C
 - *(more coming soon!)*
 
 ## 🎥 Other Technical Projects
