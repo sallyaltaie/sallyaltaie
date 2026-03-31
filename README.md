@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sally%20Altaie-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sally-altaie-5613558b/)
 
 ## 🧠 Skills
-- Java (OOP, GUI, Swing)
+- Java (OOP)
 - C / C++
 - Python (basics, scripting)
 - Mac, Windows and Linux
