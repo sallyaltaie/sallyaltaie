@@ -7,7 +7,7 @@
 ## 🧠 Skills
 - Java (OOP)
 - C / C++
-- Python (basics, scripting)
+- Python
 - Mac, Windows and Linux
 - AWS (self-taught)
 - Docker (self-taught
