@@ -7,7 +7,7 @@
 ## 🧠 Skills
 - Java (OOP)
 - C / C++
-- Python
+- Programming techniques (Python)
 - Mac, Windows and Linux
 - AWS (self-taught)
 - Docker (self-taught
@@ -19,7 +19,7 @@
 - **Nordic Bank Console** - C++
 - **Card Access System** - C
 - **Health Center Queue Simulator** - C++
-- **Cash Register** - Java
+- **ProgTech-ASCII-Art-Project** - Python 
 - **User Management** - C
 - **AVR Controller** - C
 - *(more coming soon!)*
