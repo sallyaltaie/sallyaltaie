@@ -10,7 +10,7 @@
 - Programming techniques (Python)
 - Mac, Windows and Linux
 - AWS (self-taught)
-- Docker (self-taught
+- Docker (self-taught)
   
 ## 🚀 Projects
 - **Cash Register (POS)** – Java Swing GUI with VAT calculation  
