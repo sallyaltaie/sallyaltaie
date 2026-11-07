@@ -1,10 +1,10 @@
-🎓 I'm currently studying **Software Development**, **Embedded Systems** and **IoT** at Nackademin in Stockholm.  
-💻 I enjoy working with **C**,**C++**, **Java**, **Python** and I’m exploring **Full-Stack Development** to broaden my skills.
+I'm currently studying **Software Development**, **Embedded Systems** and **IoT** at Nackademin in Stockholm.  
+I enjoy working with **C**,**C++**, **Java**, **Python** and I’m exploring **Full-Stack Development** to broaden my skills.
 
-🤝 **Connect** with me  
+**Connect** with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sally%20Altaie-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sally-altaie-5613558b/)
 
-## 🧠 Skills
+## Skills
 - Java (OOP)
 - C / C++
 - Python
@@ -31,19 +31,17 @@ You can see my credits on [IMDb](https://www.imdb.com/name/nm12562159/?ref_=fn_a
 
 [![IMDb](https://img.shields.io/badge/IMDb-Sally%20Altaie-yellow?style=flat&logo=imdb)](https://www.imdb.com/name/nm12562159/?ref_=fn_all_nme_1)
 
-## 🤓 Interests
+## Interests
 - Full-stack development  
 - Embedded systems & automation
 - Machine learning in IoT  
 
-## 👾 Hobbies
+## Hobbies
 - Books 
 - Movies  
 - Board games and baking bread 🥖
 
-✨ *"Learning by building — one project at a time."*
-
-## 🧩 Languages Used  
+## Languages Used  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallyaltaie&layout=compact&theme=tokyonight&count_private=true)
 
